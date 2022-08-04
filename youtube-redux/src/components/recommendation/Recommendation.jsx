@@ -20,6 +20,7 @@ export default function Recommendation({ type }) {
     <div className="recommendation">
       <span className="rightTitle">{title}</span>
       <img className="rightImg" src={img} alt="" />
+      <img className="rightImg" src={img} alt="" />
     </div>
   );
 }
